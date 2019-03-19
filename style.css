@@ -1,0 +1,25 @@
+body{
+	font-family: Sans-serif, serif;
+	margin: 30px auto;
+	border: 5px ;
+	width: 70%;
+	font-size: 14pt;
+	text-align:center;
+	
+}
+h1{
+		text-align:center;
+}
+#kozep{
+	text-align:center;
+	font-weight: bold;
+}
+#bal{
+	float: left;
+}
+#jobb{
+	float: right;
+}
+table{
+	
+}
